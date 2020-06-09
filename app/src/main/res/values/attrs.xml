@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Practice2DrawCircleView">
+        <attr name="Progress" format="float" />
+        <attr name="MaxProgress" format="float" />
+    </declare-styleable>
+</resources>
